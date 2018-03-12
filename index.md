@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Welcome to YTK Junk
 
-You can use the [editor on GitHub](https://github.com/drbergeron/ytkjunk-site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is YTKJ?
 
-### Markdown
+YTKJ is an app for android and iOS that filters out all of the junk videos designed to make money off of our toddlers watching YouTube. Gone are all of the videos of surprise eggs, toys reviews, adults playing with toys, plus other low effort and key word optimized videos that show up while browsing as recommended videos and search results within our app. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our philosophy
 
-```markdown
-Syntax highlighted code block
+Young children should not be used as the primary revenue stream of some adult or family taking advantage of youtubes related video's algorithm to place their videos in with real content from content creators.  
 
-# Header 1
-## Header 2
-### Header 3
+## Our App
 
-- Bulleted
-- List
+Your trust in us is our number one priority. That's why we don't have any additional advertising or tracking within our app (why we charge a small fee for it). This ensures we can cover the cost of hosting and development time of the service. 
 
-1. Numbered
-2. List
+## Why YTKJ?
 
-**Bold** and _Italic_ and `Code` text
+Even though the standard YouTube Kids app has the ability to block videos, they have to be added manually. By using YTKJ you are able to mass block all junk videos identified by the YTKJ community and YTKJ staff without hours of monitoring what is being served by the YouTube service.   
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### App Roadmap (in no particular order)
 
-### Jekyll Themes
+- General usability enhancements
+- General error tracking reporting
+- Add in local storage for easy access to previous videos watched
+- Better art assets
+- Create a means for people to report videos/channels (yay, crowdsourcing)
+- Video buckets so videos can be blocked by group based on preference.
+- Community requested features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drbergeron/ytkjunk-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Get involved
 
-### Support or Contact
+- TBD
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
