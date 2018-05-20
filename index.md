@@ -7,11 +7,11 @@ YTKJ is an app for android and iOS that filters out all of the junk videos desig
 
 ## Our philosophy
 
-Young kids should not be used as the primary vechicle for likes, views, or revenue by taking advantage of their inability to tell low effort cash-grab content from videos made by people or businesses looking to create worthwhile children's content. 
+Young kids should not be used as the primary vehicle for likes, views, or revenue by taking advantage of their inability to tell low effort cash-grab content from videos made by people or businesses looking to create worthwhile children's content. 
 
 ## Our App
 
-Your trust in us is our number one priority. This is why we don't have any additional advertising or tracking within our app (and why we charge a small fee for it). This ensures we can cover the cost of hosting our service for a long time to come without having to resort to adversitements or subscription fees. 
+Your trust in us is our number one priority. This is why we don't have any additional advertising or tracking within our app (and why we charge a small fee for it). This ensures we can cover the cost of hosting our service for a long time to come without having to resort to advertisements or subscription fees. 
 
 ## Why YTKJ?
 
@@ -30,5 +30,9 @@ Even though the standard YouTube Kids app has the ability to block videos they h
 ## Get involved
 
 Come join our communities today and help make our children's first steps onto the internet better.
+GitHub Issues board for app bugs and feature requests:
+https://github.com/drbergeron/ytkjunk-site/issues
+
+
 
 
