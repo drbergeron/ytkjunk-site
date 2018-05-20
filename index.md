@@ -7,7 +7,7 @@ YTKJ is an app for android and iOS that filters out all of the junk videos desig
 
 ## Our philosophy
 
-Young children should not be used as the primary vechicle for likes and views by taking advantage of their inability to tell low effort cash-grab content from videos made by people or businesses looking for a quick cash grab.  
+Young kids should not be used as the primary vechicle for likes, views, or revenue by taking advantage of their inability to tell low effort cash-grab content from videos made by people or businesses looking to create worthwhile children's content. 
 
 ## Our App
 
