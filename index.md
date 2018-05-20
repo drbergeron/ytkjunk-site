@@ -33,6 +33,7 @@ Come join our communities today and help make our children's first steps onto th
 GitHub Issues board for app bugs and feature requests:
 https://github.com/drbergeron/ytkjunk-site/issues
 
-
+Visit us on reddit:
+https://www.reddit.com/r/ytkjunk/
 
 
