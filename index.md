@@ -1,5 +1,6 @@
 # Welcome to YTK Junk
 
+## Will be doing a reddit AMA 6/1 !
 
 ## What is YTKJ?
 
