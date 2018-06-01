@@ -3,7 +3,7 @@
 
 ## What is YTKJ?
 
-YTKJ is an app for android and iOS that filters out all of the junk videos designed to make money off of our toddlers that would otherwise show up using the natively developed Google app. Gone are all of the videos of surprise egg openings, toy reviews, grown adults playing with toys and other low effort or key word optimized videos that show up as recommended videos and search results within YouTube itself. 
+YTKJ is an app for android (beta now, release mid-June) and iOS (releasing end of June) that filters out all of the junk videos designed to make money off of our toddlers that would otherwise show up using the natively developed Google app. Gone are all of the videos of surprise egg openings, toy reviews, grown adults playing with toys and other low effort or key word optimized videos that show up as recommended videos and search results within YouTube itself. 
 
 ## Our philosophy
 
